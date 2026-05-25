@@ -1,0 +1,36 @@
+{
+  "$schema": "https://talenest.org/schemas/brand-tokens/typography.json",
+  "description": "TaleNest typography stack — Korean (Pretendard fallback) + Latin (system)",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "tokens": {
+    "font_family_brand": {
+      "value": "var(--font-brand), 'Pretendard', system-ui, sans-serif",
+      "role": "Brand display (logo, hero titles)"
+    },
+    "font_family_body": {
+      "value": "'Pretendard', -apple-system, 'BlinkMacSystemFont', 'Apple SD Gothic Neo', system-ui, sans-serif",
+      "role": "Body text — Korean optimized"
+    },
+    "font_family_mono": {
+      "value": "ui-monospace, 'SF Mono', 'Monaco', 'Inconsolata', monospace",
+      "role": "Code, IDs, technical text"
+    },
+    "size_scale": {
+      "xs":   "11px",
+      "sm":   "12px",
+      "base": "13px",
+      "md":   "14px",
+      "lg":   "16px",
+      "xl":   "18px",
+      "2xl":  "24px",
+      "3xl":  "32px"
+    },
+    "line_height": {
+      "tight":  "1.2",
+      "snug":   "1.35",
+      "normal": "1.5",
+      "relaxed": "1.65"
+    }
+  }
+}

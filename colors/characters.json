@@ -1,0 +1,88 @@
+{
+  "$schema": "https://talenest.org/schemas/brand-tokens/characters.json",
+  "description": "8 TaleNest character signature colors — pastel palette anchored in story-world animal characters",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "tokens": {
+    "nesto": {
+      "name_en": "Nesto",
+      "name_ko": "네스토",
+      "animal": "rabbit",
+      "emoji": "🐰",
+      "hex": "#A8D8EA",
+      "rgb": [168, 216, 234],
+      "hsl": [197, 60, 79],
+      "role": "sky / calm / introduction"
+    },
+    "ollie": {
+      "name_en": "Ollie",
+      "name_ko": "올리",
+      "animal": "turtle",
+      "emoji": "🐢",
+      "hex": "#7EC8B8",
+      "rgb": [126, 200, 184],
+      "hsl": [167, 39, 64],
+      "role": "mint / sadness / regulation"
+    },
+    "meela": {
+      "name_en": "Meela",
+      "name_ko": "밀라",
+      "animal": "cat",
+      "emoji": "🐱",
+      "hex": "#C5A3D9",
+      "rgb": [197, 163, 217],
+      "hsl": [277, 39, 75],
+      "role": "purple / jealousy / introspection"
+    },
+    "chippy": {
+      "name_en": "Chippy",
+      "name_ko": "치피",
+      "animal": "squirrel",
+      "emoji": "🐿️",
+      "hex": "#E6CCAE",
+      "rgb": [230, 204, 174],
+      "hsl": [32, 50, 79],
+      "role": "warm beige / anger / energy"
+    },
+    "pipi": {
+      "name_en": "Pipi",
+      "name_ko": "피피",
+      "animal": "chick",
+      "emoji": "🐥",
+      "hex": "#FFE066",
+      "rgb": [255, 224, 102],
+      "hsl": [48, 100, 70],
+      "role": "yellow / joy / energy"
+    },
+    "rusty": {
+      "name_en": "Rusty",
+      "name_ko": "러스티",
+      "animal": "fox",
+      "emoji": "🦊",
+      "hex": "#FFB347",
+      "rgb": [255, 179, 71],
+      "hsl": [33, 100, 64],
+      "role": "orange / pride / confidence"
+    },
+    "lumo": {
+      "name_en": "Lumo",
+      "name_ko": "루모",
+      "animal": "dog",
+      "emoji": "🐶",
+      "hex": "#9BB8D3",
+      "rgb": [155, 184, 211],
+      "hsl": [211, 36, 72],
+      "role": "blue / love / connection"
+    },
+    "bamboo": {
+      "name_en": "Bamboo",
+      "name_ko": "밤부",
+      "animal": "panda",
+      "emoji": "🐼",
+      "hex": "#2D2D2D",
+      "rgb": [45, 45, 45],
+      "hsl": [0, 0, 18],
+      "role": "monochrome / complex emotions / wisdom"
+    }
+  }
+}

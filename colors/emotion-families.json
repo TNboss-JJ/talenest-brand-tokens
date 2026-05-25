@@ -1,0 +1,51 @@
+{
+  "$schema": "https://talenest.org/schemas/brand-tokens/emotion-families.json",
+  "description": "7 emotion family color palette — 49 emotions clustered by hue",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "tokens": {
+    "joy_energy": {
+      "name_ko": "기쁨과 활력",
+      "hex": "#FFE066",
+      "emotion_count": 7,
+      "hue_logic": "yellow = bright energetic"
+    },
+    "pride_confidence": {
+      "name_ko": "자부심과 자신감",
+      "hex": "#FFA94D",
+      "emotion_count": 8,
+      "hue_logic": "orange = warm assertive"
+    },
+    "love_connection": {
+      "name_ko": "사랑과 연결",
+      "hex": "#FF69B4",
+      "emotion_count": 6,
+      "hue_logic": "pink = warm relational"
+    },
+    "sadness_loss": {
+      "name_ko": "슬픔과 상실",
+      "hex": "#5C7CFA",
+      "emotion_count": 7,
+      "hue_logic": "blue = calm reflective"
+    },
+    "anger_conflict": {
+      "name_ko": "분노와 갈등",
+      "hex": "#FF6B6B",
+      "emotion_count": 7,
+      "hue_logic": "red = activated"
+    },
+    "fear_anxiety": {
+      "name_ko": "두려움과 불안",
+      "hex": "#9775FA",
+      "emotion_count": 7,
+      "hue_logic": "violet = cautious"
+    },
+    "complex_emotions": {
+      "name_ko": "복합 감정",
+      "hex": "#868E96",
+      "emotion_count": 7,
+      "hue_logic": "neutral grey = nuanced blends"
+    }
+  },
+  "total_emotions": 49
+}

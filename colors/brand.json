@@ -1,0 +1,38 @@
+{
+  "$schema": "https://talenest.org/schemas/brand-tokens/brand.json",
+  "description": "TaleNest primary brand palette — slate (anchor) + cream (active) + coral (accent) + soft (background)",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "tokens": {
+    "brand_dark": {
+      "hex": "#4E6F79",
+      "rgb": [78, 111, 121],
+      "role": "primary text / navigation / anchor",
+      "usage": "headings, sidebar text, primary buttons"
+    },
+    "brand_cream": {
+      "hex": "#EDE5D0",
+      "rgb": [237, 229, 208],
+      "role": "active state / soft highlight",
+      "usage": "active menu items, badges, hover states"
+    },
+    "brand_coral": {
+      "hex": "#D08B74",
+      "rgb": [208, 139, 116],
+      "role": "accent / CTA",
+      "usage": "primary CTAs, important actions, save buttons"
+    },
+    "brand_soft": {
+      "hex": "#FCF3DC",
+      "rgb": [252, 243, 220],
+      "role": "background wash",
+      "usage": "hero sections, soft container backgrounds"
+    },
+    "brand_text_muted": {
+      "hex": "#8A9E97",
+      "rgb": [138, 158, 151],
+      "role": "muted text",
+      "usage": "secondary labels, captions"
+    }
+  }
+}
