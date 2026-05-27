@@ -4,7 +4,7 @@ The Apache License 2.0 grants you broad rights to **use, modify, and redistribut
 
 It does **NOT** grant you rights to use:
 
-- The name **TaleNest** or **테일네스트** (trademark registration pending KIPRIS, 2026)
+- The name **TaleNest** or **테일네스트** (trademark registration pending)
 - The names of the 8 characters: **Nesto, Ollie, Meela, Chippy, Pipi, Rusty, Lumo, Bamboo** (and Korean equivalents 네스토, 올리, 밀라, 치피, 피피, 러스티, 루모, 밤부)
 - The TaleNest logo or any of the 8 character illustrations (separate copyright + character design copyright)
 - Any visual artwork from the TaleNest content library (stories, songs, workbook illustrations — copyright reserved)
